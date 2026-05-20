@@ -1,1 +1,5 @@
-public class Controller
+@RestController
+public class Controller{
+
+
+}
